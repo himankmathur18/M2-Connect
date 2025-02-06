@@ -61,7 +61,6 @@ export default function Anime() {
           )
 
         }
-
         )}
       </div>
       <div>

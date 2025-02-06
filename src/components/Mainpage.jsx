@@ -1,16 +1,7 @@
-
-
-import { useNavigate } from 'react-router-dom'
-
+-import { useNavigate } from 'react-router-dom'
 
 import Aboutme from './Aboutme'
 import Searchbar from './Search-bar'
-
-
-
-
-
-
 
 function Mainpage() {
     const navigate = useNavigate()
